@@ -1,5 +1,5 @@
 <?php
-namespace app\core;
+namespace dwi\core;
 
 class View
 {

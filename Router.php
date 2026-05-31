@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace dwi\core;
 
-use app\core\exception\NotFoundException;
+use dwi\core\exception\NotFoundException;
 
 class Router
 {
@@ -44,7 +44,7 @@ class Router
         }
 
         if (is_array($callback)) {
-            /** @var \app\core\Controller $controller */
+            /** @var \dwi\core\Controller $controller */
 
             $controller                   = new $callback[0]();
             Application::$app->controller = $controller;

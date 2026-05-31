@@ -2,7 +2,7 @@
     "name": "dwi/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Dwi\\PhpMvcCore\\": "src/"
+            "dwi\\core\\": "."
         }
     },
     "authors": [

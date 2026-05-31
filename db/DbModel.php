@@ -1,8 +1,8 @@
 <?php
-namespace app\core\db;
+namespace dwi\core\db;
 
-use app\core\Application;
-use app\core\Model;
+use dwi\core\Application;
+use dwi\core\Model;
 
 abstract class DbModel extends Model
 {

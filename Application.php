@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace dwi\core;
 
-use app\core\db\Database;
+use dwi\core\db\Database;
 
 class Application
 {

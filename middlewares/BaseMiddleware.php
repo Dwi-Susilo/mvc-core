@@ -1,5 +1,5 @@
 <?php
-namespace app\core\middlewares;
+namespace dwi\core\middlewares;
 
 abstract class BaseMiddleware
 {

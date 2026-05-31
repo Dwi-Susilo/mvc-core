@@ -1,7 +1,7 @@
 <?php
-namespace app\core;
+namespace dwi\core;
 
-use app\core\db\DbModel;
+use dwi\core\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

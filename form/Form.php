@@ -1,7 +1,7 @@
 <?php
-namespace app\core\form;
+namespace dwi\core\form;
 
-use app\core\Model;
+use dwi\core\Model;
 
 class Form
 {

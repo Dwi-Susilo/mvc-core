@@ -1,8 +1,8 @@
 <?php
-namespace app\core\middlewares;
+namespace dwi\core\middlewares;
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use dwi\core\Application;
+use dwi\core\exception\ForbiddenException;
 use Override;
 
 class AuthMiddleware extends BaseMiddleware

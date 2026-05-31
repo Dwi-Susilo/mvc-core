@@ -1,8 +1,8 @@
 <?php
-namespace app\core;
+namespace dwi\core;
 
-use app\core\Application;
-use app\core\middlewares\BaseMiddleware;
+use dwi\core\Application;
+use dwi\core\middlewares\BaseMiddleware;
 
 class Controller
 {

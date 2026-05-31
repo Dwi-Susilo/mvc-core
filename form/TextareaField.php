@@ -1,5 +1,5 @@
 <?php
-namespace app\core\form;
+namespace dwi\core\form;
 
 use Override;
 
